@@ -72,9 +72,9 @@ ul {
 ul li {
   margin-bottom: 30px;
   padding-left: 50px;
-  padding-right: 100px; /* ✅ Add this line */
+  padding-right: 100px; 
   position: relative;
-  word-wrap: break-word; /* ✅ Allow word wrapping */
+  word-wrap: break-word; 
 }
 ul li::before {
   content: "";
